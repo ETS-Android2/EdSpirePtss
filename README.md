@@ -12,3 +12,6 @@ This app has 3 main objective
 # Development Tools
 - Android Studio (Java)
 - Firebase
+
+# APK Download
+- https://drive.google.com/file/d/1TYToduvzYrJ3D1MQVQlDRcHZF_RLhvzz/view?usp=sharing
