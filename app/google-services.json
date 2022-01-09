@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802919799665",
+    "project_id": "edspire-ptss",
+    "storage_bucket": "edspire-ptss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802919799665:android:9b11e41421e8d9f62234d0",
+        "android_client_info": {
+          "package_name": "com.example.edspireptss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802919799665-3r1n19uc9vknpso2bja5msm6nv5munvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnW88hr9KhxqkTlvYxuFxKuUAH6U84SIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802919799665-3r1n19uc9vknpso2bja5msm6nv5munvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
